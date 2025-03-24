@@ -1,7 +1,13 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+star7th/showdoc:v3.3.1
+mockoon/cli
+bitnami/java:17
+jenkins/jenkins:2.479.1-lts
+corentinth/it-tools:2024.10.22-7ca5933
+nacos/nacos-server:v2.4.3
+snowdreamtech/frps:0.60.0
+mysql:8.2.0
+mysql:5.7.44
 bitnami/java:1.8
+tomcat:9
+gitea/gitea
+redis
