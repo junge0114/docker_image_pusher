@@ -1,1 +1,1 @@
-amclubs/amclubs-cfnat:latest
+lanol/filecodebox:beta
